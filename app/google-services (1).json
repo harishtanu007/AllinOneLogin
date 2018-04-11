@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "42599240037",
+    "firebase_url": "https://allinonelogin-cdfae.firebaseio.com",
+    "project_id": "allinonelogin-cdfae",
+    "storage_bucket": "allinonelogin-cdfae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42599240037:android:8ca86916a7c31b17",
+        "android_client_info": {
+          "package_name": "com.example.hk185080.allinonelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42599240037-t4eicm9pnfuba2u7kcitui0po1q7f748.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hk185080.allinonelogin",
+            "certificate_hash": "4de70a934852f73b0df063e80081b67c30caa178"
+          }
+        },
+        {
+          "client_id": "42599240037-hailr0r8i21vfto3lbga65pni3vigd34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ9t4RKN4U8TC9LQwlsiZwQr-gKr-fQAg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42599240037-hailr0r8i21vfto3lbga65pni3vigd34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

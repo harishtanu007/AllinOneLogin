@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AllinOneLogin</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">2003600663296543</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb2003600663296543</string>
+
+    <string name="facebook_app_id">2003600663296543</string>
+    <string name="fb_login_protocol_scheme">fb2003600663296543</string>
+    <!-- Twitter consumer key and secret -->
+    <string name="twitter_consumer_key" translatable="false">W4qK7LxYUOABNWk0ytp3AEbFj</string>
+    <string name="twitter_consumer_secret" translatable="false">lPDXOkjgN0ImwpQ2qMC4CQfkm8KvA0oT3YlrmPbjm475sZY2Kg</string>
+</resources>
